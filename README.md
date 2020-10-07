@@ -24,7 +24,6 @@ Please :star: this repo to help us improve the quality.
 Home           | Calculation
 :---------------------:|:------------------:
 ![screenshoot](screenshots/bs1.png) | ![screenshoot](screenshots/bs2.png) <br>
-:---------------------:|:------------------:
 Result           | Error!
 ![screenshoot](screenshots/bs3.png) | ![screenshoot](screenshots/bs4.png)
 
