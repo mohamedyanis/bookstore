@@ -19,11 +19,11 @@ But me..! I did it differently, every day I built an app, a game, a web page or 
 * [x] <del>Buy by email
 
 ## Options:
-* [x] Show all existing books by clicking on the "View all" button.
-* [x] Search specific bookm just enter qny information(Title, Year, Author or ISBN) and click on the "Search entry" button.
-* [x] Ability to add many books to the store, just enter all the information of the book and click on "Add entry" button.
-* [x] Ability to modify the book information by double click on the book and modify the anformation, finally click on the "Update selected" button.
-* [x] You can also delete any book from the store, just selecte the book you wanna delete it and click on the "Delete Selected".
+* [x] Show all existing books by clicking on the "**View all**" button.
+* [x] Search specific bookm just enter qny information(Title, Year, Author or ISBN) and click on the "**Search entry**" button.
+* [x] Ability to add many books to the store, just enter all the information of the book and click on "**Add entry**" button.
+* [x] Ability to modify the book information by double click on the book, modify, and finally click on the "**Update selected**" button.
+* [x] You can also delete any book from the store, just selecte the book you wanna delete it and click on "**Delete Selected**".
 
 # Thank _You_!
 Please :star: this repo to help us improve the quality.
