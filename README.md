@@ -21,10 +21,10 @@ But me..! I did it differently, every day I built an app, a game, a web page or 
 Please :star: this repo to help us improve the quality.
 
 ## Screenshots
-Home           | Calculation
+Home           | View All
 :---------------------:|:------------------:
 ![screenshoot](screenshots/bs1.png) | ![screenshoot](screenshots/bs2.png) <br>
-Result           | Error!
+Search Entry           | The selected information
 ![screenshoot](screenshots/bs3.png) | ![screenshoot](screenshots/bs4.png)
 
 ## Requirements
