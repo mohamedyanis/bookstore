@@ -3,8 +3,9 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 #100daysofcode This is a simple bookstore app written in Python With Tkinter module, and the database created with Sqlite3 module.<br>
-This program contains both front-end and back-end code for a bookstore app with a simple **GUI** (graphical user interface)<br>
-Click <a href="https://docs.python.org/3/library/tk.html" > here </a> to read more about **tkinter** module
+This program contains both front-end and back-end code for a bookstore app with a simple **GUI** (graphical user interface).<br>
+Click <a href="https://docs.python.org/3/library/tk.html" > here </a> to read more about **tkinter** module.<br>
+Click <a href="https://docs.python.org/3/library/sqlite3.html"> here </a> to read more about **sqlite** module.
 
 ## #100daysofcode
 Almost a hundred days ago from now (01/10/2020), I decided to do the #100daysofcode challenge. This challenge is simply for someone to code every day and post on social media a picture shows that he wrote a code (every day). And than they share with us the final project.<br>
@@ -18,6 +19,13 @@ But me..! I did it differently, every day I built an app, a game, a web page or 
 
 # Thank _You_!
 Please :star: this repo to help us improve the quality.
+
+## Screenshots
+Home           | Calculation
+:---------------------:|:------------------:
+![screenshoot](screenshots/bs.png) | ![screenshoot](screenshots/bs2.png)
+Result           | Error!
+![screenshoot](screenshots/bs3.png) | ![screenshoot](screenshots/bs4.png)
 
 ## Requirements
 * python
@@ -36,5 +44,6 @@ pip install sqlite
 5. Run the ```frontend.py``` file
 
 ## Contributing 💡
-If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
-If you find any issue just put it in the repository issue section, thank you.
+If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.<br>
+If you find any issue just put it in the repository issue section, thank you.<br><br>
+.سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ
