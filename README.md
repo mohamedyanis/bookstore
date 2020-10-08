@@ -45,7 +45,7 @@ Search Entry           | The Selected Book Information
 2. Install the packeges, write in your command (cmd):
 ```bash
 pip install tkinter
-pip install sqlite
+pip install pysqlite3
 ```
 3. Install this repository, click <a href="https://github.com/mohamedyanis/bookstore/archive/master.zip"> here </a> to install it.
 4. Extract the folder
